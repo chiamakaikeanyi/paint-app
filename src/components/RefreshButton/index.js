@@ -8,7 +8,7 @@ import styles from './RefreshButton.module.css';
 export default React.memo(({ cb }) => {
   return (
     <button className={styles.button_refresh_colors} onClick={cb}>
-      &#8634;
+      &#8634; <span>Refresh</span>
     </button>
   );
 });

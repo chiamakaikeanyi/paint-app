@@ -1,5 +1,7 @@
 # Paint App
 
+![Design preview](./public/paint-app.png)
+
 ## Contents
 
 - [Prerequisite](#prerequisite)
